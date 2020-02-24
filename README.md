@@ -8,8 +8,8 @@
 
 ## 仓库内容
 
-- 计算机科学 (理论部分)
-- 计算机技术 (编程实践部分)
+- [计算机科学 (理论部分)](https://github.com/Ninglo/CPU-CSSM/tree/master/ComputerScience)
+- [计算机技术 (编程实践部分)](https://github.com/Ninglo/CPU-CSSM/tree/master/Program)
 - 数学 (计科需要掌握的内容)
 - 药大课程免挂攻略 (本人亲身实践, 请根据个人情况调整)
 - 立志篇 (自学需要的素质)
